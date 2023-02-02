@@ -1,4 +1,4 @@
-
+## Olá,  sou a Janny Lanny Darck, mas pode me chamar de Jaay. Atualmente estou aprendeno o que é Programação :D ##
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
