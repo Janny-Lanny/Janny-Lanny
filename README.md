@@ -1,4 +1,4 @@
-## Olá,  sou a Janny Lanny Darck, mas pode me chamar de Jaay. Atualmente estou aprendeno o que é Programação :D ##
+## Olá,  sou a Janny Lanny Darck, mas pode me chamar de Jaay. Atualmente estou Cursando Engenharia de Software ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
