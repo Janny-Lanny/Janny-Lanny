@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="50" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png">
-  
+
 </div>
 
 ##
@@ -19,10 +19,11 @@
 <div> 
 
 #### Essas são as minhas Redes Sociais, fique à vontade para conhecer um pouco mais sobre mim.
-  <a href="https://www.instagram.com/jaanny_lanny/"><img src="https://cdn-icons-png.flaticon.com/512/4138/4138164.png" width="50px"></a>
-  <a href="https://www.linkedin.com/in/janny-lanny-d-a6457212a/"><img src="https://cdn-icons-png.flaticon.com/512/4138/4138173.png" width="50px"></a>
-  <a href="https://www.tiktok.com/@alljaay"><img src="https://cdn-icons-png.flaticon.com/512/4138/4138198.png" width="50px"></a>
-  <a href="https://open.spotify.com/user/12183289742"><img src="https://cdn-icons-png.flaticon.com/512/4138/4138180.png" width="50px"></a>
+  <a href="https://www.instagram.com/jaanny_lanny/"><img src="https://cdn-user-icons.flaticon.com/78143/78143064/1714097411768.svg?token=exp=1714098310~hmac=6972c174dcf9cf2bf2c6edc1872d39b3" width="50px"></a>
+  <a href="https://www.linkedin.com/in/janny-lanny-d-a6457212a/"><img src="https://cdn-user-icons.flaticon.com/78143/78143064/1714097529394.svg?token=exp=1714098428~hmac=c6843cda0b5ffcb57098952dcc123039" width="50px"></a>
+  <a href="https://www.tiktok.com/@alljaay"><img src="https://cdn-user-icons.flaticon.com/78143/78143064/1714097346509.svg?token=exp=1714098245~hmac=c611ee47058ed31e8355966312dcf035" width="50px"></a>
+  <a href="https://open.spotify.com/user/12183289742"><img src="https://cdn-user-icons.flaticon.com/78143/78143064/1714097324279.svg?token=exp=1714098231~hmac=03581421f96bcef0621c46bd8fce4807" width="50px"></a>
+  <a href="https://github.com/Janny-Lanny"><img src="https://cdn-user-icons.flaticon.com/78143/78143064/1714097599061.svg?token=exp=1714098497~hmac=ba38dc88bae7be85f074586bd8e88ca3" width="50px"></a>
 
   
   
