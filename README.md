@@ -19,7 +19,7 @@
 <div> 
 
 ### Essas são as minhas Redes Sociais, fique à vontade para conhecer um pouco mais sobre mim.
-  <a href="https://www.instagram.com/jaanny_lanny/"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504942.png" width="50px"></a>
+  <a href="https://www.instagram.com/jaanny_lanny/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50px"></a>
   <a href="https://www.linkedin.com/in/janny-lanny-d-a6457212a/"><img src="https://cdn-icons-png.flaticon.com/512/3256/3256016.png" width="50px"></a>
   <a href="https://www.tiktok.com/@alljaay"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504942.png" width="50px"></a>
   <a href="https://open.spotify.com/user/12183289742"><img src="https://cdn-icons-png.flaticon.com/512/3537/3537017.png" width="50px"></a>
